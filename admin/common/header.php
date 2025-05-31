@@ -19,7 +19,7 @@
                   <span class="count bg-success"></span>
                 </div>
                 <div class="profile-name">
-                  <h5 class="mb-0 font-weight-normal">Harshit jii</h5>
+                  <h5 class="mb-0 font-weight-normal">Gaurav jii</h5>
                   <span>Gold Member</span>
                 </div>
               </div>
